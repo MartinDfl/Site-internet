@@ -1,5 +1,5 @@
 ---
-title: "Create a Collection"
+title: "Create a Collection de fou"
 subtitle: "A collection, minus the blog."
 description: |
   Sometimes you want a souped-up series- a bundle of related pages 
@@ -17,7 +17,7 @@ layout: list-sidebar # list, list-sidebar
 cascade:
   layout: single-series 
   sidebar:
-    title: "Create a Collection"
+    title: "Create a Collection OH"
     author: Alison Hill
     description: |
       Sometimes you want a souped-up series- a bundle of related pages 
