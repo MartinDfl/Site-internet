@@ -20,5 +20,12 @@ blogdown::check_hugo()
 
 use_git_config(user.name ="Martin Duflo",
                user.mail = "tintin.duflo@gmail.com")
+
+file.exists(".git")
+
+usethis::use_git()je sjejn
+
+getwd()
+usethis::create_project(".", open = FALSE)
 ```
 
