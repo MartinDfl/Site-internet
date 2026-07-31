@@ -31,7 +31,7 @@ markup:
     startLevel: 2
 params:
   comments: utterances
-  custom_theme: ''
+  custom_theme: "noir-et-blanc-hex"
   customheadingFontFamily: Inter
   customtextFontFamily: Opensauceone
   description: cest la description
@@ -45,7 +45,7 @@ params:
     reactions_enabled: '1'
     repo: MartinDfl/Site-internet
     repo_id: '[REPO ID]='
-    theme: peach
+    theme: 'plum'
   headingFontFamily: sans-serif
   logo: /img/blogophonic-mark-dark.png
   mainSections:
@@ -79,7 +79,7 @@ params:
   socialInFooter: false
   socialInHeader: false
   textFontFamily: sans-serif
-  theme: sky
+  theme:  #c'est celui-ci le bon pour une raison inconnue
   twitter: apreshill
   utterances:
     issue_term: pathname
