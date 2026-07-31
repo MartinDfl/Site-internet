@@ -1,8 +1,8 @@
 baseURL: https://martin-duflo.netlify.app/
 theme: hugo-apero
 languageCode: en
-title: Hugo Apéro
-author: Alison Hill
+title: Le site de Martin
+author: Martin Duflo
 copyright: ''
 googleAnalytics: ''
 metaDataFormat: yaml
@@ -49,9 +49,8 @@ params:
   headingFontFamily: sans-serif
   logo: /img/blogophonic-mark-dark.png
   mainSections:
-    - blog
     - project
-    - talk
+    - cv
   math:
     renderer: katex
   navallcaps: true
@@ -110,29 +109,17 @@ menu:
       weight: 3
   header:
     - name: About
-      title: About Blogophonic
+      title: About
       url: /about/
       weight: 1
-    - name: Blog
-      title: Blog
-      url: /blog/
+    - name: CV
+      title: CV
+      url: /cv/
       weight: 2
-    - name: Projects
-      title: Project Portfolio
+    - name: Portfolio
+      title: Portfolio
       url: /project/
       weight: 3
-    - name: Talks
-      title: Talks
-      url: /talk/
-      weight: 4
-    - name: A collection
-      title: A collection
-      url: /collection/
-      weight: 5
-    - name: Elements
-      title: Element Page
-      url: /elements/
-      weight: 6
 privacy:
   disqus:
     disable: false
