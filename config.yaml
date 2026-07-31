@@ -35,7 +35,7 @@ params:
   customheadingFontFamily: Inter
   customtextFontFamily: Opensauceone
   description: cest la description
-  favicon: /img/favicon.ico
+  favicon: /img/sens.png
   giscus:
     category: Comments
     category_id: '[category ID]'
@@ -47,7 +47,7 @@ params:
     repo_id: '[REPO ID]='
     theme: 'plum'
   headingFontFamily: sans-serif
-  logo: /img/blogophonic-mark-dark.png
+  logo: /img/sens.png
   mainSections:
     - project
     - cv
@@ -61,9 +61,6 @@ params:
     - icon: github
       icon_pack: fab
       url: https://github.com/apreshill/apero
-    - icon: instagram
-      icon_pack: fab
-      url: https://www.instagram.com/explore/tags/apero/
     - icon: x-twitter
       icon_pack: fab
       url: https://twitter.com/hashtag/apéro

@@ -1,1 +1,7 @@
 .Rproj.user
+.Rhistory
+.RData
+.Rprofile
+public/
+resources/
+.hugo_build.lock

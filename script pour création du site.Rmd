@@ -23,9 +23,27 @@ use_git_config(user.name ="Martin Duflo",
 
 file.exists(".git")
 
-usethis::use_git()je sjejn
 
 getwd()
 usethis::create_project(".", open = FALSE)
+
+blogdown::serve_site()
+
+
+file.exists("public/img/sens.png")
+
+
+blogdown::stop_server()
+unlink("public", recursive = TRUE, force = TRUE)
+blogdown::build_site()
+blogdown::serve_site()
+
+
+dir.create("static/img", recursive = TRUE, showWarnings = FALSE)
+
+
+cat(readLines("assets/custom.scss"), sep = "\n")
+
+
 ```
 

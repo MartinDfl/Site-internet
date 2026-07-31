@@ -121,3 +121,9 @@ pre, code, .code, blockquote {
 .blocks:last-child .decorator {
  margin-bottom:0.25in
 }
+
+.site-brand img,
+.site-logo {
+  height: 77px;   // ajustez cette valeur selon la taille voulue
+  width: auto;    // garde les proportions
+}
