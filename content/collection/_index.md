@@ -1,5 +1,5 @@
 ---
-title: "Create a Collection"
+title: "Create a Collection de fou"
 subtitle: "A collection, minus the blog."
 description: |
   Sometimes you want a souped-up series- a bundle of related pages 
