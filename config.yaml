@@ -45,7 +45,7 @@ params:
     reactions_enabled: '1'
     repo: MartinDfl/Site-internet
     repo_id: '[REPO ID]='
-    theme: light
+    theme: peach
   headingFontFamily: sans-serif
   logo: /img/blogophonic-mark-dark.png
   mainSections:
