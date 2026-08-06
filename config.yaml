@@ -1,7 +1,7 @@
 baseURL: https://martin-duflo.netlify.app/
 theme: hugo-apero
 languageCode: en
-title: Le site de Martin
+title: Martin Duflo
 author: Martin Duflo
 copyright: '&copy;2026 Martin Duflo'  # Footer text, e.g. '© {year} Me'
 googleAnalytics: ''
@@ -35,7 +35,7 @@ params:
   customheadingFontFamily: Inter
   customtextFontFamily: Opensauceone
   description: cest la description
-  favicon: /img/sens.png
+  favicon: /img/sens3.png
   giscus:
     category: Comments
     category_id: '[category ID]'
@@ -60,24 +60,18 @@ params:
   social:
     - icon: github
       icon_pack: fab
-      url: https://github.com/apreshill/apero
-    - icon: x-twitter
+      url: https://github.com/MartinDfl
+    - icon: linkedin-in
       icon_pack: fab
-      url: https://twitter.com/hashtag/apéro
-    - icon: impactstory
-      icon_pack: ai
-      url: https://impactstory.org/u/0000-0002-8082-1890
-    - icon: orcid
-      icon_pack: ai
-      url: http://orcid.org/0000-0002-8082-1890
-    - icon: rss
+      url: https://www.linkedin.com/in/martin-duflo-1b5070375/   
+    - icon: envelope
       icon_pack: fas
-      url: /blog/index.xml
+      url: mailto:martinduflopro@gmail.com
   socialInFooter: false
   socialInHeader: false
   textFontFamily: sans-serif
   theme:  #c'est celui-ci le bon pour une raison inconnue
-  twitter: apreshill
+  twitter: jaipas
   utterances:
     issue_term: pathname
     label: 'comments :crystal_ball:'
@@ -101,6 +95,19 @@ menu:
       title: Portfolio
       url: /project/
       weight: 3
+#  footer:
+#    - name: About
+#      title: About
+#      url: /about/
+#      weight: 1
+#    - name: CV
+#      title: CV
+#      url: /cv/
+#      weight: 2
+#    - name: Portfolio
+#      title: Portfolio
+#      url: /project/
+#      weight: 3
 privacy:
   disqus:
     disable: false
