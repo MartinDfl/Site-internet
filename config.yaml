@@ -34,7 +34,7 @@ params:
   custom_theme: "noir-et-blanc-hex"
   customheadingFontFamily: Inter
   customtextFontFamily: Opensauceone
-  description: cest la description
+  description: c'est la description
   favicon: /img/sens3.png
   giscus:
     category: Comments
@@ -83,8 +83,8 @@ taxonomies:
   tag: tags
 menu:
   header:
-    - name: About
-      title: About
+    - name: À propos
+      title: À propos
       url: /about/
       weight: 1
     - name: CV

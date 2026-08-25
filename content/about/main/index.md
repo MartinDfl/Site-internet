@@ -1,15 +1,21 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
+title: "À propos du site" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
-  
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
-show_outro: true
+ L'objectif de ce site est double :  
+ D'une part de montrer mes travaux, mon portfolio, mon CV. En somme de **montrer ce que j'ai fait et ce que je sais faire**.
+ 
+ 
+ C'était aussi un défi personnel que je me suis lancé.  
+ En effet ce site est réalisé uniquement avec R. 
+ Cela me permet d'experimenter, d'apprendre et, j'espére, de progresser toujours plus sur R et son ecosystéme. Et s'y ça me permet de ne pas perdre la main avec le HTML c'est toujours ça de gagné.
+ Comme je le disais ce site est réalisé avec R en utilisant le package R Blogdown. 
+ Je n'ai rien inventé et je me suis grandement inspiré du blog 
+ de [Kanto Fiaferana](https://kanto.rbind.io/fr/) (qui par ailleurs m'a donné l'envie et l'idée de créer le mien) et de celui d'[Alison Hill](https://www.apreshill.com/) qui est l'une des créatrices du théme [hugoapéro](https://github.com/hugo-apero/hugo-apero) qui est utiliser pour le présent site.
 outro:
 ---
 

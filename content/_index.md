@@ -1,9 +1,11 @@
 ---
 title: "Martin Duflo"
 subtitle: "Embauchez-moi par pitié"
-description: "écrire un texte avec présentation de moi (courte) du site (créer avec R) de son objectif, troisième paragphe : adapté de kanton et bla bla"
+description: "Diplomé d'un master orienté étude urbaine, étude social et analyse spatial, j'ai un intéret particulier pour toutes 
+les méthodes d'enquêtes et d'analyses, quelles soient quantitatives ou qualitatives et plus encore pour celles qui mélanges intelligemment les deux."    
+
 images:
-  - img/revoir.jpg
+  - img/img.jpg
 image_down: true
 text_align_left: false
 show_social_links: true # specify social accounts in site config

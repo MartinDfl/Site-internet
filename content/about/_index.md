@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: "À propos"
 description: |
-  A website template for Hugo developed by RStudio & Formspree and available for free.
+  description de la page
 show_header: true
 sidebar_left: false
 # Keep this! Do not edit.
