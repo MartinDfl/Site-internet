@@ -4,7 +4,6 @@ description: "..."
 type: page
 layout: standard
 show_title_as_headline: true
-
 ---
 <div style="text-align: center;">
 

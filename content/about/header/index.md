@@ -6,8 +6,8 @@ headline: À propos de moi
 ---
 
 <!-- this is a subheadline -->
-Diplomé d'un master orienté étude urbaine, étude social et analyse spatial, j'ai un intéret particulier pour toutes 
-les méthodes d'enquêtes et d'analyses quelles soient quantitatives ou qualitatives et plus encore pour celles qui mélanges intelligemment les deux.
+Diplômé d'un master orienté études urbaines, études sociales et analyse spatiale, j'ai un intérêt particulier pour toutes 
+les méthodes d'enquête et d'analyse, qu'elles soient quantitatives ou qualitatives, et plus encore pour celles qui mélangent intelligemment les deux.
 
 Je cherche à travailler dans 
 

@@ -10,9 +10,9 @@ intro: |
  D'une part de montrer mes travaux, mon portfolio, mon CV. En somme de **montrer ce que j'ai fait et ce que je sais faire**.
  
  
- C'était aussi un défi personnel que je me suis lancé.  
- En effet ce site est réalisé uniquement avec R. 
- Cela me permet d'experimenter, d'apprendre et, j'espére, de progresser toujours plus sur R et son ecosystéme. Et s'y ça me permet de ne pas perdre la main avec le HTML c'est toujours ça de gagné.
+ d'autre part c'est aussi un défi technique personnel que je me suis lancé.  
+ En effet ce site est réalisé uniquement avec R Studio. 
+ Cela me permet d'experimenter, d'apprendre et, j'espére, de progresser toujours plus sur R et son ecosystème. Et si cela me permet de ne pas perdre la main avec le HTML c'est toujours ça de gagné.
  Comme je le disais ce site est réalisé avec R en utilisant le package R Blogdown. 
  Je n'ai rien inventé et je me suis grandement inspiré du blog 
  de [Kanto Fiaferana](https://kanto.rbind.io/fr/) (qui par ailleurs m'a donné l'envie et l'idée de créer le mien) et de celui d'[Alison Hill](https://www.apreshill.com/) qui est l'une des créatrices du théme [hugoapéro](https://github.com/hugo-apero/hugo-apero) qui est utiliser pour le présent site.
