@@ -7,13 +7,16 @@ number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
  L'objectif de ce site est double : <br/>
- Présenter mes travaux, mon portfolio, mon CV, en somme de montrer ce que j'ai fait et ce que je sais faire. 
  
- Mais c'est aussi un exercice personnel que je me suis lancé. 
- En effet, ce site est réalisé uniquement avec R Studio. 
+ 
+ D'une part, il s'agit de présenter mon portfolio, mon CV, en somme de montrer ce que j'ai fait et ce que je sais faire. 
+ 
+ D'autre part, cela constitue un exercice personnel et un espace de découverte. 
+ En effet, ce site est réalisé uniquement avec RStudio. 
  Cela me permet d'expérimenter, d'apprendre et, j'espère, de progresser toujours plus sur R et son écosystème. 
- Et si cela me permet de ne pas perdre la main avec le HTML, c'est toujours ça de gagné.
+ Puis, s'il retient l'attention d'un employeur, c'est toujours ça de pris.
  
+ ______
  
  Ce site est réalisé via R en utilisant le package R Blogdown. 
  Je me suis grandement inspiré de celui de [Kanto Fiaferana](https://kanto.rbind.io/fr/) 
