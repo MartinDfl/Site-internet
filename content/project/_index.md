@@ -4,12 +4,33 @@ type: page
 layout: standard
 show_title_as_headline: true
 ---
+Quelques travaux.
+
 
 <div class="portfolio-grid">
 
 <div class="portfolio-card">
 
-## Mémoire de M1
+# Constitution d'une base de données partenariale
+### Rapport de stage | DRIEAT
+J'ai pu participer aux travaux de constitution 
+d'une base de données mutualisée des projets d'aménagement en Ile-de-France 
+afin d’améliorer le suivi de l'aménagement par les services de l’État et ses partenaires, 
+et de faciliter le dialogue avec les collectivités et les aménageurs 
+autour des grandes orientations liées à la production de logements, à la réduction de l’artificialisation et à l’adaptation au changement climatique.
+
+Dans le cadre de mon stage, *participer aux travaux* a consisté à construire, à la fois à l'échelle locale et globale, et sur l'ensemble de la chaîne de production de l'information, depuis sa collecte jusqu'à la valorisation des données, un environnement géomatique et organisationnel adapté, garantissant le bon fonctionnement de la base de données.
+
+[Rapport de stage →](/files/rapport_de_stage_drieat_Martin_Duflo.pdf)
+
+<img src="/img/portfolio/rapport_acteurs2.png" alt="test" class="portfolio-card-img">
+
+</div>
+
+<div class="portfolio-card">
+
+# Le sentiment d’appartenance à la banlieue parisienne par les banlieusards
+### Mémoire de M1
 
 <img src="/img/portfolio/banlieue.png" alt="test" class="portfolio-card-img">
 
@@ -60,24 +81,30 @@ L'idée était d'obtenir un résultat équivalent dans le fond et la forme (et a
 
 
 </div>
-<div class="portfolio-card">
-
-</div>
-<div class="portfolio-card">
-
-</div>
 
 <div class="portfolio-card">
 
+## Tableau de bord des projets d'aménagements
+
+<img src="/img/portfolio/tdb_badora.png" alt="test" class="portfolio-card-img">
+
+Réalisé lors de mon stage à la DRIEAT, ce tableau de bord permet de suivre l'évolution des projets d'aménagement en Île-de-France. 
+Principalement destiné aux agents de la DRIEAT, il est également disponible en open data.
+
+
+Il permet notamment aux services métiers liés au foncier de suivre l'évolution macro et micro des projets d'aménagement publics. 
+Il est par ailleurs utilisé pour surveiller la cohérence, la fraîcheur et la bonne santé globale de la base de données afin de repérer rapidement les anomalies (ce qui s'avère particulièrement utile dans une base partenariale aux sources multiples).
+
+
+
+C'est en somme une version simplifiée de la base, mettant en valeur des indicateurs prioritaires et en facilitant la lecture via plusieurs représentations schématiques.
+
+
+
+*Ps : je ne suis plus responsable de ce projet depuis le 31/07/2026 date de fin de mon stage.*
+
+[Lien vers le tableau de bord →](http://donnees-drieat.dataviz.din.developpement-durable.gouv.fr/superset/dashboard/p/RpY5mLyJ1jB/)
+
 </div>
-
-<div class="portfolio-card">
-
-</div>
-
-<div class="portfolio-card">
-
-</div>
-
 
 </div>
