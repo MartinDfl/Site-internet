@@ -34,11 +34,13 @@ Compétences clés : Gestion de projet • Coordination d'acteurs • Aménageme
 **Assistant de recherche** -- Wave Sénégal -- `De juillet 2022 à août 2022` 
 
 <div style="text-align: justify;">
+
 Assistant dans un projet de recherche portant sur l'adoption du paiement électronique et du microcrédit 
 numérique au Sénégal, mené dans le cadre d'un doctorat inscrit au Massachusetts Institute of Technology et 
-soutenue par Wave Sénégal.
+soutenue par Wave Sénégal. La thèse issue de ces travaux est disponible via [ce lien](https://grp.cepr.org/publications/pedl-working-paper/asymmetric-information-and-digital-technology-adoption-evidence).
 
 Compétences clés : Encadrement d'équipe (20 enquêteurs) • Suivie de collecte de données • Analyse de données • Stata
+
 </div>
 
 ***

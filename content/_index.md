@@ -1,10 +1,10 @@
 ---
 title: "Martin Duflo"
 subtitle: "Embauchez-moi par pitié"
-description: "Diplômé d'un master orienté études urbaines, sciences sociales et analyse spatiale, je porte un intérêt particulier aux méthodes d'enquête et d'analyse, qu'elles soient quantitatives ou qualitatives, et plus encore à celles qui articulent intelligemment les deux."    
+description: ""    
 
 images:
-  - img/img.jpg
+  - img/img_home_2.png
 image_down: true
 text_align_left: false
 show_social_links: true # specify social accounts in site config
