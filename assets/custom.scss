@@ -124,7 +124,7 @@ pre, code, .code, blockquote {
 
 .site-brand img,
 .site-logo {
-  height: 77px;   // c'est ce chiffre qui gére la taille
+  height: 77px;   // c'est cette valeur qui gére la taille
   width: auto;    // garde les proportions
 }
 
@@ -151,4 +151,20 @@ pre, code, .code, blockquote {
   object-fit: cover;
   border-radius: 4px;
   margin-bottom: 1rem;
+}
+
+.portfolio-card-img-free {
+  width: auto;
+  height: auto;
+  object-fit: fit;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+.portfolio-card-img-tall {
+  display: block;
+  width: 50%;
+  height: auto;
+  border-radius: 4px;
+  margin: 0 auto 1rem;
 }
