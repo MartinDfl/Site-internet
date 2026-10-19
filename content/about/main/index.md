@@ -13,7 +13,7 @@ intro: |
  
  D'autre part, cela constitue un exercice personnel et un espace de découverte. 
  En effet, ce site est réalisé uniquement avec RStudio. 
- Cela me permet d'expérimenter, d'apprendre et, j'espère, de progresser toujours plus sur R et son écosystème. 
+ Cela me permet d'expérimenter, d'apprendre et, j'espère, de progresser sur R et son écosystème. 
  Puis, s'il retient l'attention d'un employeur, c'est toujours ça de pris.
  
  ______
