@@ -34,7 +34,7 @@ params:
   custom_theme: "noir-et-blanc-hex"
   customheadingFontFamily: Inter
   customtextFontFamily: Opensauceone
-  description: c'est la description
+  description: Martin Duflo, Géographe. Portfolio et CV
   favicon: /img/sens3.png
   giscus:
     category: Comments
@@ -71,7 +71,7 @@ params:
   socialInHeader: false
   textFontFamily: sans-serif
   theme:  #c'est celui-ci le bon pour une raison inconnue
-  twitter: jaipas
+  twitter:
   utterances:
     issue_term: pathname
     label: 'comments :crystal_ball:'
