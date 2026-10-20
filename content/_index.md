@@ -1,6 +1,6 @@
 ---
 title: "Martin Duflo"
-subtitle: "Embauchez-moi par pitié"
+subtitle: "Géographe"
 description: ""    
 
 images:
