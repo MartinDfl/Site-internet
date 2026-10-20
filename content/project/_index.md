@@ -4,8 +4,6 @@ type: page
 layout: standard
 show_title_as_headline: true
 ---
-Quelques travaux.
-
 
 <div class="portfolio-grid">
 
