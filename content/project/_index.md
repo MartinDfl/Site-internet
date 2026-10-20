@@ -70,6 +70,7 @@ Ceci afin définir à quelle échelle territoriale orienter les actions et attri
 
 Réalisation d’une étude sur la base de données MOBPRO de l’INSEE ; l’objectif était d’étudier les flux domicile-travail dans l’une des métropoles françaises.
 L’objectif était d’égaler la qualité de fond et de forme des publications de synthèse au format "Quatre Pages" de l’Insee.
+
 [Voir l'étude →](/files/4pagesINSEE.pdf)
 
 
